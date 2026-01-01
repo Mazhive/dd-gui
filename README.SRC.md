@@ -62,6 +62,8 @@ Kies Snelheid: Selecteer 1M of 4M voor de beste resultaten op SD-kaarten.
 
 Start: Klik op 'START CLONEN'. Voer je wachtwoord in wanneer de sudo prompt verschijnt.
 
+dd_gui.desktop gebruikers kunnen dit bestand in hun eigen ~/.local/share/applications/ plaatsen
+
 ⚠️ Belangrijke Opmerking
 De applicatie roept dd aan via sudo. Het is aanbevolen om de applicatie te starten vanuit de terminal of ervoor te zorgen dat je sudo geconfigureerd is om wachtwoorden via de GUI te accepteren (bijv. via pkexec).
 
