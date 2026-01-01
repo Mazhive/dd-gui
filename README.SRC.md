@@ -1,4 +1,4 @@
-dd_gui (C++ Edition)
+dd_gui (C++ Edition) Linux dd frontend
 Een snelle, native Linux GUI voor het dd commando, geschreven in C++ met het Qt6 framework. Deze applicatie is speciaal ontworpen voor Debian 13 (Trixie) om veilig schijfkopieën te maken en te herstellen.
 
 🚀 Kenmerken
