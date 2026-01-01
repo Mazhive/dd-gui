@@ -64,3 +64,10 @@ Start: Klik op 'START CLONEN'. Voer je wachtwoord in wanneer de sudo prompt vers
 
 ⚠️ Belangrijke Opmerking
 De applicatie roept dd aan via sudo. Het is aanbevolen om de applicatie te starten vanuit de terminal of ervoor te zorgen dat je sudo geconfigureerd is om wachtwoorden via de GUI te accepteren (bijv. via pkexec).
+
+## 🛠️ Snelle Installatie
+
+Voer het volgende commando uit in je terminal om de app automatisch te compileren en toe te voegen aan je startmenu:
+
+```bash
+chmod +x install.sh && ./install.sh
