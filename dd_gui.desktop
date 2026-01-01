@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=DD GUI
+Comment=Veilig schijven clonen en images schrijven
+# Pas het pad hieronder aan naar waar jouw executable staat
+Exec=sudo dd_gui
+# Optioneel: pad naar een icoon (bijv. een .png bestand)
+Icon=drive-harddisk
+Terminal=true
+Categories=System;Utility;
+Keywords=dd;clone;backup;usb;
