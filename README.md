@@ -20,8 +20,8 @@ De applicatie maakt gebruik van standaard Linux-tools. Zorg ervoor dat de volgen
 Bash
 
 sudo apt update
-sudo apt install python3 python3-tk util-linux coreutils sudohttps://github.com/Mazhive/dd-gui/
-python3-tk: Voor de grafische interface.
+sudo apt install python3 python3-tk util-linux coreutils 
+sudo python3-tk: Voor de grafische interface.
 
 util-linux: Voor lsblk (schijfdetectie).
 
@@ -32,8 +32,8 @@ Clone de repository of download het script:
 
 Bash
 
-git clone https://github.com/Mazhive/dd-gui/dd-gui.git
-cd python-dd-cloner
+git clone https://github.com/Mazhive/dd-gui.git
+cd dd-gui
 Maak het script uitvoerbaar:
 
 Bash
